@@ -1,0 +1,46 @@
+text {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+
+input {
+  width: 400px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  font-size: 15px;
+  display: block;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  border-radius: 8px;
+  background-color: rgb(238, 238, 238);
+  border: none;
+}
+
+button {
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  font-size: 15px;
+  margin-top: 15px;
+  border: none;
+}
+
+.request {
+  margin-top: 15px;
+  margin-bottom: 25px;
+  font-size: 35px;
+}
+
+.request-now {
+  background-color: black;
+  color: white;
+  margin-right: 10px;
+}
+
+.schedule {
+  background-color: rgb(238, 238, 238);
+  margin-left: 10px;
+}

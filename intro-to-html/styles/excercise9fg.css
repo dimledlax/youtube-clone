@@ -1,0 +1,77 @@
+.cat1 {
+width: 200px;
+margin-top: 20px;
+margin-left: 20px;
+border-style: solid;
+border: none;
+box-shadow: 3px 4px 10px rgb(168, 167, 167) ;
+font-family: Arial;
+display: inline-block;
+}
+
+.cat2 {
+  width: 200px;
+  margin-top: 20px;
+  margin-left: 20px;
+  border-style: solid;
+  border: none;
+  box-shadow: 3px 4px 10px rgb(168, 167, 167) ;
+  font-family: Arial;
+  display: inline-block;
+  }
+
+  .cat3 {
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-style: solid;
+    border: none;
+    box-shadow: 3px 4px 10px rgb(168, 167, 167) ;
+    font-family: Arial;
+    display: inline-block;
+    }
+
+p {
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 18px;
+
+}
+
+.p1 {
+  font-weight: bold;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  font-size: 18px;
+}
+
+.p2 {
+  margin-top: 0px;
+  margin-bottom: 5px;
+  font-size: 16px;
+  color: rgb(130, 130, 130);
+}
+
+.img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.button {
+  background-color: rgb(5, 123, 240);
+  color: white;
+  border-color: rgb(5, 123, 240);
+  border-width: 1px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+
+}
+
